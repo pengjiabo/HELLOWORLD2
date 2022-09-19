@@ -7,7 +7,9 @@ modify remote1123
 modify refo7890 this is develop
 
 
+
 develop ++
+
 
 modify remote17890 112
 modify remote17890   
@@ -15,9 +17,8 @@ modify remote17890   789j
 
 this is mydevelop yes
 yes mydevelop tow
-<<<<<<< HEAD
 添加行
 two
-
+three
 
 
